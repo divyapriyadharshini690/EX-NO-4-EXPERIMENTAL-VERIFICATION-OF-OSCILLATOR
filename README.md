@@ -29,14 +29,14 @@ The frequency of oscillation is given by fo = 1 /  6 (2RC ).If an invertin
 ---
 ## CIRCUIT DIAGRAM
 RC PHASE SHIFT OSCILLATOR
-<img width="952" height="976" alt="image" src="https://github.com/user-attachments/assets/dd2b5792-8183-4214-9245-8373279357f6" />
 
-
+![WhatsApp Image 2025-11-28 at 08 49 35_a62373c0](https://github.com/user-attachments/assets/0b4e5a10-3e8a-4d18-8921-5eacb3e7d32a)
 
 ---
 
 ## MODEL GRAPH
-<img width="414" height="324" alt="image" src="https://github.com/user-attachments/assets/3389b740-b70e-4148-9bf9-e5319627260f" />
+![WhatsApp Image 2025-11-28 at 08 49 51_e1e6d190](https://github.com/user-attachments/assets/c5448c29-313d-4dd7-ba54-c810a75f8034)
+
 
 ## DESIGN
 
@@ -86,14 +86,13 @@ The frequency of oscillation is given by fo = 1/2πRC
 
 ## CIRCUIT DIAGRAM
 WIEN BRIDGE OSCILLATOR
-<img width="570" height="480" alt="image" src="https://github.com/user-attachments/assets/be71f26e-36ad-4677-8117-51362146cbbd" />
+![WhatsApp Image 2025-11-28 at 08 50 43_ea591fdd](https://github.com/user-attachments/assets/64a09e4b-15c6-4ec6-b2eb-0b6e4067f4db)
 
 
 ---
 ## MODEL GRAPH
-<img width="414" height="325" alt="image" src="https://github.com/user-attachments/assets/1cc285f7-05c7-4b65-af59-b28cf039fcd3" />
+![WhatsApp Image 2025-11-28 at 08 51 03_06411adf](https://github.com/user-attachments/assets/cfee61e4-40aa-4f5c-8527-f7fb6c1436fa)
 
----
 
 ## DESIGN
 
